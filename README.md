@@ -13,8 +13,8 @@ Objective:
 
 Solution summary:
 
-- Write a function that takes a `key` string and a `value` string
-- Funtion converts the strings to a json object `"{'text','Hello Slack!'}"` and converts it to a byts bytes[]
+- Write a function that takes a `key` string and a `value` string eg. `text` and `Hello Slack!`
+- Funtion converts the strings to a json object eg. `"{'text','Hello Slack!'}"` and converts it to byts bytes[] eg. `[123 34 116 101 120 116 34 58 34 72 101 108 108 111 32 83 108 97 99 107 33 34 125]`
 
 
 Run the solution:
