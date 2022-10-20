@@ -32,6 +32,13 @@ docker run --rm -it tobytes
 [123 34 116 101 120 116 34 58 34 72 101 108 108 111 32 83 108 97 99 107 33 34 125]
 ```
 
+- Watch the recording of it working!
+
+```bash
+python3 -m pip install asciinema
+asciinema play asciinema-rec.cast
+```
+
 ## Running the tests
 
 To run the tests run the command `go test` from within the exercise directory.
