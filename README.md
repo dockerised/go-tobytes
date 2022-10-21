@@ -49,7 +49,3 @@ flags:
     go test -v --bench . --benchmem
 
 
-## Further information
-
-For more detailed information about the Go track, including how to get help if
-you're having trouble, please visit the exercism.io [Go language page](http://exercism.io/languages/go/resources).
